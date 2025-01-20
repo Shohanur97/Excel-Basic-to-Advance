@@ -1,4 +1,4 @@
-# he SUMIF function is a premade function in Excel, which calculates the sum of values in a range based on a true or false condition.
+# The SUMIF function is a premade function in Excel, which calculates the sum of values in a range based on a true or false condition.
 
 ## It is typed =SUMIF:
 ## =SUMIF(range, criteria, [sum_range])
