@@ -1,6 +1,7 @@
 # COUNT Function
 The COUNT function is a premade function in Excel, which counts cells with numbers in a range.
 The COUNT function only counts cells with numbers, not cells with letters. 
+
 ![image alt](https://github.com/Shohanur97/Excel-Basic-to-Advance/blob/main/STATISTICAL%20FUNCTION/image/Count.png)
 
 # COUNTA Function
